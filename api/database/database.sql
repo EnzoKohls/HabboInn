@@ -60,3 +60,4 @@ INSERT INTO quartos (nome_quarto, tipo, preco_cambios, avaliacao) VALUES
 INSERT INTO reservas (data_checkin, data_checkout, status_reserva, id_cliente, id_quarto) VALUES 
 ('2026-07-10', '2026-07-15', 'Confirmada', 1, 2),
 ('2026-07-20', '2026-07-22', 'Pendente', 2, 1); -- 'Pendente' simula o quarto bloqueado temporariamente
+ 
